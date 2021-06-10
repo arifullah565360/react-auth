@@ -1,0 +1,36 @@
+.login{
+    text-align: center;
+    border: 1px solid black;
+
+}
+.creat{
+    box-shadow: 5px 5px 10px gray;
+    width: 500px;
+    margin-left: 31%;
+    margin-top: 20px;
+}
+.google{
+    margin: 30px;
+}
+.mainbtn{
+    width: 150px;
+    margin: 20px;
+    background-color: rgb(250, 4, 4);
+    border: 0px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+}
+.googlebtn{
+    border-radius: 50px;
+    width: 200px;
+    margin: 20px;
+    background-color: blue;
+    padding: 5px;
+    color: white;
+}
+.inputDisign{
+    width:350px;
+    height: 30px;
+    margin: 10px;
+}

@@ -1,0 +1,33 @@
+    .from{
+        display: flex;
+        border-top: 1px solid blue;
+        margin: 20px;
+       }
+
+
+.dstntnHeader{
+    border-top: 1px solid black;
+    margin: 10px;
+}
+.input{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(190, 47, 147);
+    width: 30%;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    height: fit-content;
+}
+.map{
+    
+    width: 60%;
+    margin: 20px;
+    text-align: center;
+    padding: 30px;
+  
+}
+.map img{
+    width: 100%;
+}
+
+

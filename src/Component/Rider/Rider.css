@@ -1,0 +1,17 @@
+.rider{
+    margin: 20px;
+    border: 1px solid rgb(0, 38, 255);
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(17, 1, 63);
+    border-radius: 10px;
+    
+}
+
+.rider img{
+    margin-bottom: 15px;
+    width: 100%;
+    border-radius: 10px;
+}
